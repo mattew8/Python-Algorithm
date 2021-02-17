@@ -1,7 +1,6 @@
 def solution(N, stages):
     all_stage = list(range(1,N+1))
    # all_stage = [1, 2, 3, 4, 5]
-
     all_user = len(stages)
     
     fail = []
